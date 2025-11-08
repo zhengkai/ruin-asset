@@ -1,0 +1,14 @@
+{
+  "character": [
+    {
+      "name": "samurai",
+      "sprite": [
+        {
+          "type": "idle",
+          "path": "character/samurai/idle.png",
+          "step": [10,10,10]
+        }
+      ]
+    }
+  ]
+}
