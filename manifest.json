@@ -55,5 +55,17 @@
         }
       ]
     }
+  ],
+  "tileset": [
+    {
+      "name":"grassland" ,
+      "path": "tileset/92828/tileset.png",
+      "size": {"w": 32, "h": 32}
+    },
+    {
+      "name":"iron" ,
+      "path": "tileset/91702/tile/tileset.png",
+      "size": {"w": 32, "h": 32}
+    }
   ]
 }
