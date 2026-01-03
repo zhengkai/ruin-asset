@@ -1,0 +1,25 @@
+{
+  "name": "bird-b",
+  "sprite": [
+    {
+      "pose": "walk",
+      "path": "animal/bird-b/walk.png",
+      "step": [10,10,10,12,14,16]
+    },
+    {
+      "pose": "hurt",
+      "path": "animal/bird-b/hurt.png",
+      "step": [10,10]
+    },
+    {
+      "pose": "idle",
+      "path": "animal/bird-b/idle.png",
+      "step": [10,10,10,10]
+    },
+    {
+      "pose": "dead",
+      "path": "animal/bird-b/dead.png",
+      "step": [10,10,10,10]
+    }
+  ]
+}
