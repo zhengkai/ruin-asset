@@ -29,10 +29,10 @@
   ],
   "map": [
     {
-      "path": "map/ruin-2.json"
+      "path": "map/ruin-2/index.json"
     },
     {
-      "path": "map/ruin-3.json"
+      "path": "map/ruin-3/index.json"
     }
   ],
   "font": {

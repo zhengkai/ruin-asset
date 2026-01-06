@@ -1,0 +1,11 @@
+{
+  "name":"ruin-2",
+  "w":80,
+  "h":20,
+  "terrain":{
+    "path": "map/ruin-2/terrain.json"
+  },
+  "trigger":{
+    "path": "map/ruin-2/trigger.json"
+  }
+}
