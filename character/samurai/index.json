@@ -1,5 +1,14 @@
 {
   "name": "samurai",
+  "physics": {
+    "w": 0.375,
+    "h": 0.75
+  },
+  "visual": {
+    "w": 2.25,
+    "h": 2.25,
+    "offsetY": 0.375
+  },
   "sprite": [
     {
       "pose": "walk",

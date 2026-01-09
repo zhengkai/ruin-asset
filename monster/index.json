@@ -1,0 +1,14 @@
+[
+  {
+    "type": "dog",
+    "name": "dog-a",
+    "sprite": "dog-a",
+    "scale": 1.5
+  },
+  {
+    "type": "bird",
+    "name": "bird-a",
+    "sprite": "bird-a",
+    "scale": 2.0
+  }
+]

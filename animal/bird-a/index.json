@@ -1,5 +1,5 @@
 {
-  "name": "bird-b",
+  "name": "bird-a",
   "physics": {
     "w": 1.5,
     "h": 1
@@ -12,22 +12,22 @@
   "sprite": [
     {
       "pose": "walk",
-      "path": "animal/bird-b/walk.png",
+      "path": "animal/bird-a/walk.png",
       "step": [10,10,10,12,14,16]
     },
     {
       "pose": "hurt",
-      "path": "animal/bird-b/hurt.png",
+      "path": "animal/bird-a/hurt.png",
       "step": [10,10]
     },
     {
       "pose": "idle",
-      "path": "animal/bird-b/idle.png",
+      "path": "animal/bird-a/idle.png",
       "step": [10,10,10,10]
     },
     {
       "pose": "dead",
-      "path": "animal/bird-b/dead.png",
+      "path": "animal/bird-a/dead.png",
       "step": [10,10,10,10]
     }
   ]

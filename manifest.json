@@ -12,6 +12,9 @@
       "path": "animal/dog-a/index.json"
     },
     {
+      "path": "animal/bird-a/index.json"
+    },
+    {
       "path": "animal/bird-b/index.json"
     }
   ],
@@ -27,6 +30,9 @@
       "size": {"w": 32, "h": 32}
     }
   ],
+  "monster": {
+    "path": "monster/index.json"
+  },
   "map": [
     {
       "path": "map/ruin-2/index.json"

@@ -1,5 +1,14 @@
 {
   "name": "dog-a",
+  "physics": {
+    "w": 1.5,
+    "h": 1
+  },
+  "visual": {
+    "w": 1.5,
+    "h": 1.5,
+    "offsetY": 0.25
+  },
   "sprite": [
     {
       "pose": "walk",
@@ -18,6 +27,16 @@
     },
     {
       "pose": "idle",
+      "path": "animal/dog-a/idle.png",
+      "step": [10,10,10,10]
+    },
+    {
+      "pose": "jump",
+      "path": "animal/dog-a/idle.png",
+      "step": [10,10,10,10]
+    },
+    {
+      "pose": "run",
       "path": "animal/dog-a/idle.png",
       "step": [10,10,10,10]
     },
