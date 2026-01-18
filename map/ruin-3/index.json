@@ -7,5 +7,8 @@
   },
   "trigger":{
     "path": "map/ruin-3/trigger.json"
+  },
+  "monster":{
+    "path": "map/ruin-3/monster.json"
   }
 }
