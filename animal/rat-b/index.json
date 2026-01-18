@@ -1,19 +1,19 @@
 {
   "name": "rat-b",
   "physics": {
-    "w": 1,
-    "h": 1
+    "w": 0.5,
+    "h": 0.25
   },
   "visual": {
-    "w": 1.5,
-    "h": 1.5,
-    "offsetY": 0.25
+    "w": 1,
+    "h": 1,
+    "offsetY": 0.375
   },
   "sprite": [
     {
       "pose": "walk",
       "path": "animal/rat-b/walk.png",
-      "step": [10,10,10,12,14,16]
+      "step": [10,10,10,12]
     },
     {
       "pose": "hurt",
@@ -28,7 +28,7 @@
     {
       "pose": "dead",
       "path": "animal/rat-b/dead.png",
-      "step": [10,10,10,10]
+      "step": [10,10]
     }
   ]
 }

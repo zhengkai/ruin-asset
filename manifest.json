@@ -7,17 +7,9 @@
       "path": "character/samurai/index.json"
     }
   ],
-  "animal": [
-    {
-      "path": "animal/dog-a/index.json"
-    },
-    {
-      "path": "animal/bird-a/index.json"
-    },
-    {
-      "path": "animal/bird-b/index.json"
-    }
-  ],
+  "animal": {
+    "path": "animal/index.json"
+  },
   "tileset": [
     {
       "name":"grassland" ,

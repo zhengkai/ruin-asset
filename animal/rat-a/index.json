@@ -2,18 +2,18 @@
   "name": "rat-a",
   "physics": {
     "w": 1,
-    "h": 1
+    "h": 0.5
   },
   "visual": {
     "w": 1.5,
     "h": 1.5,
-    "offsetY": 0.25
+    "offsetY": 0.5
   },
   "sprite": [
     {
       "pose": "walk",
       "path": "animal/rat-a/walk.png",
-      "step": [10,10,10,12,14,16]
+      "step": [10,10,10,12]
     },
     {
       "pose": "hurt",

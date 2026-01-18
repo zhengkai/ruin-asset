@@ -6,9 +6,45 @@
     "scale": 1.5
   },
   {
+    "type": "dog",
+    "name": "dog-b",
+    "sprite": "dog-b",
+    "scale": 2.0
+  },
+  {
     "type": "bird",
     "name": "bird-a",
     "sprite": "bird-a",
     "scale": 2.0
+  },
+  {
+    "type": "bird",
+    "name": "bird-b",
+    "sprite": "bird-b",
+    "scale": 1.5
+  },
+  {
+    "type": "cat",
+    "name": "cat-a",
+    "sprite": "cat-a",
+    "scale": 1.5
+  },
+  {
+    "type": "cat",
+    "name": "cat-b",
+    "sprite": "cat-b",
+    "scale": 1.75
+  },
+  {
+    "type": "rat",
+    "name": "rat-a",
+    "sprite": "rat-a",
+    "scale": 1.5
+  },
+  {
+    "type": "rat",
+    "name": "rat-b",
+    "sprite": "rat-b",
+    "scale": 1
   }
 ]

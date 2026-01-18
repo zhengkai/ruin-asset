@@ -1,13 +1,13 @@
 {
   "name": "cat-b",
   "physics": {
-    "w": 1,
-    "h": 1
+    "w": 0.75,
+    "h": 0.75
   },
   "visual": {
     "w": 1.5,
     "h": 1.5,
-    "offsetY": 0.25
+    "offsetY": 0.375
   },
   "sprite": [
     {
