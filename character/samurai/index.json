@@ -1,8 +1,8 @@
 {
   "name": "samurai",
   "physics": {
-    "w": 0.375,
-    "h": 0.75
+    "w": 0.75,
+    "h": 1.5
   },
   "visual": {
     "w": 2.25,
@@ -23,17 +23,17 @@
     {
       "pose": "attack",
       "path": "character/samurai/attack_1.png",
-      "step": [10,10,10,12,14,16]
+      "step": [4,4,4,4,4,4]
     },
     {
       "pose": "attack2",
       "path": "character/samurai/attack_2.png",
-      "step": [10,10,10,12]
+      "step": [4,4,4,4]
     },
     {
       "pose": "attack3",
       "path": "character/samurai/attack_3.png",
-      "step": [10,10,10]
+      "step": [4,4,4]
     },
     {
       "pose": "jump",

@@ -1,7 +1,7 @@
 {
   "name": "dog-a",
   "physics": {
-    "w": 1.5,
+    "w": 1,
     "h": 1
   },
   "visual": {
@@ -27,16 +27,6 @@
     },
     {
       "pose": "idle",
-      "path": "animal/dog-a/idle.png",
-      "step": [10,10,10,10]
-    },
-    {
-      "pose": "jump",
-      "path": "animal/dog-a/idle.png",
-      "step": [10,10,10,10]
-    },
-    {
-      "pose": "run",
       "path": "animal/dog-a/idle.png",
       "step": [10,10,10,10]
     },
