@@ -22,8 +22,8 @@
       "size": {"w": 32, "h": 32}
     }
   ],
-  "monster": {
-    "path": "monster/index.json"
+  "mob": {
+    "path": "mob/index.json"
   },
   "map": [
     {

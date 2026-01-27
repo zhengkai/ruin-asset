@@ -8,7 +8,7 @@
   "trigger":{
     "path": "map/ruin-2/trigger.json"
   },
-  "monster":{
-    "path": "map/ruin-2/monster.json"
+  "mob":{
+    "path": "map/ruin-2/mob.json"
   }
 }
