@@ -2,7 +2,7 @@
   {
     "id": 34,
     "gate": {
-      "map": "ruin-2",
+      "zone": "zone2",
       "x": 5,
       "y": 6
     }
@@ -10,7 +10,7 @@
   {
     "id": 19,
     "gate": {
-      "map": "ruin-2",
+      "zone": "zone2",
       "x": 5,
       "y": 6
     }

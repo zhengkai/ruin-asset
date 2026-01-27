@@ -25,14 +25,12 @@
   "mob": {
     "path": "mob/index.json"
   },
-  "map": [
-    {
-      "path": "map/ruin-2/index.json"
-    },
-    {
-      "path": "map/ruin-3/index.json"
-    }
-  ],
+  "map": {
+    "path": "map/index.json"
+  },
+  "zone": {
+    "path": "zone/index.json"
+  },
   "font": {
     "name": "JetBrainsMono",
     "path": "font/JetBrainsMono-Regular.otf"

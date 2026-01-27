@@ -1,0 +1,22 @@
+[
+  {
+    "name": "zone2",
+    "map": "map2",
+    "trigger": {
+      "path": "zone/zone2/trigger.json"
+    },
+    "mob": {
+      "path": "zone/zone2/mob.json"
+    }
+  },
+  {
+    "name": "zone3",
+    "map": "map3",
+    "trigger": {
+      "path": "zone/zone3/trigger.json"
+    },
+    "mob": {
+      "path": "zone/zone3/mob.json"
+    }
+  }
+]

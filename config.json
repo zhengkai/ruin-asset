@@ -1,7 +1,7 @@
 {
   "playerSprite": "samurai",
   "zoneStart": {
-    "map": "ruin-3",
+    "zone": "zone3",
     "x": 2,
     "y": 9
   }
