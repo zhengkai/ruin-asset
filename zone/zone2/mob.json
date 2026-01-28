@@ -1,41 +1,41 @@
 [
   {
-    "def": "bird-a",
+    "def": "birdA",
     "x": 14,
     "y": 14
   },
   {
-    "def": "dog-a",
+    "def": "dogA",
     "x": 24,
     "y": 5
   },
   {
-    "def": "dog-b",
+    "def": "dogB",
     "x": 27,
     "y": 5
   },
   {
-    "def": "bird-b",
+    "def": "birdB",
     "x": 30,
     "y": 12
   },
   {
-    "def": "cat-a",
+    "def": "catA",
     "x": 33,
     "y": 8
   },
   {
-    "def": "cat-b",
+    "def": "catB",
     "x": 38,
     "y": 10
   },
   {
-    "def": "rat-a",
+    "def": "ratA",
     "x": 56,
     "y": 8
   },
   {
-    "def": "rat-b",
+    "def": "ratB",
     "x": 55,
     "y": 2
   }

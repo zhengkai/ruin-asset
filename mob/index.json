@@ -1,50 +1,34 @@
 [
   {
-    "type": "dog",
-    "name": "dog-a",
-    "sprite": "dog-a",
-    "scale": 1.5
+    "name": "dogA",
+    "sprite": "dogA"
   },
   {
-    "type": "dog",
-    "name": "dog-b",
-    "sprite": "dog-b",
-    "scale": 2.0
+    "name": "dogB",
+    "sprite": "dogB"
   },
   {
-    "type": "bird",
-    "name": "bird-a",
-    "sprite": "bird-a",
-    "scale": 2.0
+    "name": "birdA",
+    "sprite": "birdA"
   },
   {
-    "type": "bird",
-    "name": "bird-b",
-    "sprite": "bird-b",
-    "scale": 1.5
+    "name": "birdB",
+    "sprite": "birdB"
   },
   {
-    "type": "cat",
-    "name": "cat-a",
-    "sprite": "cat-a",
-    "scale": 1.5
+    "name": "catA",
+    "sprite": "catA"
   },
   {
-    "type": "cat",
-    "name": "cat-b",
-    "sprite": "cat-b",
-    "scale": 1.75
+    "name": "catB",
+    "sprite": "catB"
   },
   {
-    "type": "rat",
-    "name": "rat-a",
-    "sprite": "rat-a",
-    "scale": 1.5
+    "name": "ratA",
+    "sprite": "ratA"
   },
   {
-    "type": "rat",
-    "name": "rat-b",
-    "sprite": "rat-b",
-    "scale": 1
+    "name": "ratB",
+    "sprite": "ratB"
   }
 ]
