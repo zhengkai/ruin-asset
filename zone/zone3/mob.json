@@ -1,6 +1,7 @@
 [
   {
-    "def": "dogA",
+    "type": "dog",
+    "defaultSprite": "dogA",
     "x": 9,
     "y": 11
   }

@@ -1,8 +1,8 @@
 {
   "playerSprite": "samurai",
   "zoneStart": {
-    "zone": "zone3",
-    "x": 2,
-    "y": 9
+    "zone": "zone2",
+    "x": 6,
+    "y": 10
   }
 }

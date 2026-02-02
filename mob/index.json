@@ -1,34 +1,12 @@
 [
   {
-    "name": "dogA",
+    "type": "dog",
+    "movement": "grounded",
     "sprite": "dogA"
   },
   {
-    "name": "dogB",
-    "sprite": "dogB"
-  },
-  {
-    "name": "birdA",
+    "type": "bird",
+    "movement": "aerial",
     "sprite": "birdA"
-  },
-  {
-    "name": "birdB",
-    "sprite": "birdB"
-  },
-  {
-    "name": "catA",
-    "sprite": "catA"
-  },
-  {
-    "name": "catB",
-    "sprite": "catB"
-  },
-  {
-    "name": "ratA",
-    "sprite": "ratA"
-  },
-  {
-    "name": "ratB",
-    "sprite": "ratB"
   }
 ]

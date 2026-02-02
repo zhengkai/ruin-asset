@@ -1,41 +1,49 @@
 [
   {
-    "def": "birdA",
+    "type": "bird",
+    "sprite": "birdA",
     "x": 14,
     "y": 14
   },
   {
-    "def": "dogA",
+    "type": "dog",
+    "sprite": "dogA",
     "x": 24,
     "y": 5
   },
   {
-    "def": "dogB",
+    "type": "dog",
+    "sprite": "dogB",
     "x": 27,
     "y": 5
   },
   {
-    "def": "birdB",
+    "type": "bird",
+    "sprite": "birdB",
     "x": 30,
     "y": 12
   },
   {
-    "def": "catA",
+    "type": "dog",
+    "sprite": "catA",
     "x": 33,
     "y": 8
   },
   {
-    "def": "catB",
+    "type": "dog",
+    "sprite": "catB",
     "x": 38,
     "y": 10
   },
   {
-    "def": "ratA",
+    "type": "dog",
+    "sprite": "ratA",
     "x": 56,
     "y": 8
   },
   {
-    "def": "ratB",
+    "type": "dog",
+    "sprite": "ratB",
     "x": 55,
     "y": 2
   }

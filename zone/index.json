@@ -2,6 +2,12 @@
   {
     "name": "zone2",
     "map": "map2",
+    "background": [
+      {
+        "index": 1,
+        "path": "tileset/92828/background/1920x1080/flora2_1920x1080.png"
+      }
+    ],
     "trigger": {
       "path": "zone/zone2/trigger.json"
     },
