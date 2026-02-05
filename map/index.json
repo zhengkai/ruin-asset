@@ -4,5 +4,8 @@
   },
   {
     "path": "map/map3/index.json"
+  },
+  {
+    "path": "map/well/index.json"
   }
 ]

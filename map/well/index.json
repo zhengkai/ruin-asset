@@ -1,0 +1,8 @@
+{
+  "name":"mapWell",
+  "w":40,
+  "h":200,
+  "terrain":{
+    "path": "map/well/terrain.json"
+  }
+}

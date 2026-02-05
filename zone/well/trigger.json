@@ -1,0 +1,50 @@
+[
+  {
+    "id": 83,
+    "gate": {
+      "zone": "zone2",
+      "x": 5,
+      "y": 6
+    }
+  },
+  {
+    "id": 43,
+    "gate": {
+      "zone": "zone2",
+      "x": 5,
+      "y": 6
+    }
+  },
+  {
+    "id": 95,
+    "gate": {
+      "zone": "zoneWell",
+      "x": 10,
+      "y": 194
+    }
+  },
+  {
+    "id": 55,
+    "gate": {
+      "zone": "zoneWell",
+      "x": 10,
+      "y": 194
+    }
+  }
+  {
+    "id": 7815,
+    "gate": {
+      "zone": "zoneWell",
+      "x": 8,
+      "y": 1
+    }
+  },
+  {
+    "id": 7775,
+    "gate": {
+      "zone": "zoneWell",
+      "x": 8,
+      "y": 1
+    }
+  }
+]

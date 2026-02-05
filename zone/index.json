@@ -48,5 +48,12 @@
     "mob": {
       "path": "zone/zone3/mob.json"
     }
+  },
+  {
+    "name": "zoneWell",
+    "map": "mapWell",
+    "trigger": {
+      "path": "zone/well/trigger.json"
+    }
   }
 ]
